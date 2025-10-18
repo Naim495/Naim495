@@ -1,6 +1,21 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on<br><br>A Django + React-based Learning Management System and a Handwritten Notes to DOC Converter web app.<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack web development projects involving Django REST API, React, or AI-based automation.<br><br>🧠 I’m looking for help with<br><br>Improving machine learning models for handwriting recognition and text summarization.<br><br>🌱 I’m currently learning<br><br>Advanced Django, REST Framework, React, and 8086 Microprocessor architecture.<br><br>💬 Ask me about<br><br>Python, Django, React, Operating Systems, or how to start a full-stack project from scratch.<br><br>⚡ Fun fact<br><br>I love building both hardware and software — from PC components to full web apps!
+🧑‍💻 Currently Working On:
+Django + React LMS & Handwritten Notes to DOC Converter
 
+🤝 Open To Collaborate On:
+Full-stack projects with Django REST, React & AI automation
+
+🧠 Seeking Help With:
+Improving ML models for handwriting recognition & summarization
+
+🌱 Learning:
+Advanced Django, DRF, React & 8086 Microprocessor
+
+💬 Ask Me About:
+Python, Django, React & full-stack project setup
+
+⚡ Fun Fact:
+I love building both hardware and software — from PCs to web apps!
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Naimur Rahman Emon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Naim Rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:016112naimrahman@gmail.com) 
